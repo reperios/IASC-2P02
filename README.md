@@ -10,16 +10,18 @@ Explore my interactive study guide here.
 
 ## Interactive Genealogy
 
-Explore interactive genealogy here.
+Work in progress... come back in the future!
 
 # Speculative Fiction
 
 ## Title of your story here
 
-dhdhdhfbfjfjf
+Work in progress... come back in the future!
 
 ## Micro Essay
 
-hdhfhfjfjfh
+Work in progress... come back in the future!
 
 ## Interactive Timeline
+
+Work in progress... come back in the future!
