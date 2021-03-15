@@ -10,7 +10,7 @@ Explore my interactive study guide [here](2P02InteractiveStudyGuide.html).
 
 ## Interactive Genealogy
 
-Work in progress... come back in the future!
+Explore my interactive genealogy [here](2P02_InteractiveGenealogy.html)
 
 # Speculative Fiction
 ## [When film cameras meet Instagram]
