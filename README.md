@@ -73,4 +73,6 @@ Throughout the story, Ali shows the process of working with a film camera in a d
 
 ## Interactive Timeline
 
-Work in progress... come back in the future!
+Here is my interactive timeline on the adjacent possible of the Zoetrope!
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1nXiIuVf9DF7vShTBb_t-j4I21lTmw6vnqBGVza8kxGA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
